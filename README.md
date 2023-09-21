@@ -25,6 +25,7 @@ This is my resubmission for my first Homework assignment for the RICE 2023 FinTe
 ## How is the company funded? How much funding have they received?
 
   * The company is funded by three main factors,
+    ---
                * Transaction fees
                * Cash App Cards
                * Selling Bitcoin
@@ -55,6 +56,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## What domain of the financial industry is the company in?
 
   * Cash Apps main domains would be;
+
               * Payments/billings,
               * Cryptocurrency,
               * and Personal Finance.
@@ -78,7 +80,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-  *Cash Apps main metric for success would be its user rate. Even it has seen a drop in the past years Cash App is still running really well. A reason why they've seen a deccrease in user rate is because they tend to encounter problems such as data breaches which make people less likely to bank with Cash App since there's extra risk.
+  * Cash Apps main metric for success would be its user rate. Even it has seen a drop in the past years Cash App is still running really well. A reason why they've seen a deccrease in user rate is because they tend to encounter problems such as data breaches which make people less likely to bank with Cash App since there's extra risk.
 
 ## How is your company performing relative to competitors in the same domain?
 

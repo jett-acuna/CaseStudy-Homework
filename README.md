@@ -25,10 +25,10 @@ This is my resubmission for my first Homework assignment for the RICE 2023 FinTe
 ## How is the company funded? How much funding have they received?
 
   * The company is funded by three main factors,
-    ---
-               * Transaction fees
-               * Cash App Cards
-               * Selling Bitcoin
+     * Transaction fees
+     * Cash App Cards
+     * Selling Bitcoin
+    
   * Cash Apps revenue in 2022 was $10.6 billion which was a 14% decline from 2021
 
 
